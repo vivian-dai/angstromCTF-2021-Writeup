@@ -10,5 +10,6 @@ Here's a CTF I solo-ed and wanted to write a writeup on since it's a few days lo
 
 * [Sanity Check](./MISC/Sanity%20Check/Sanity%20Check.md)
 * [Archaic](./MISC/Archaic/Archaic.md)
+* [Fish](./MISC/Fish/Fish.md)
 
 </details>
