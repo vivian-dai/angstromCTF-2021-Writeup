@@ -13,3 +13,11 @@ Here's a CTF I solo-ed and wanted to write a writeup on since it's a few days lo
 * [Fish](./MISC/Fish/Fish.md)
 
 </details>
+
+<details>
+
+<summary>Crypto</summary>
+
+* [Relatively Simple Algorithm](./CRYPTO/Relatively%20Simple%20Algorithm/Relatively%20Simple%20Algorithm.md)
+
+</details>
