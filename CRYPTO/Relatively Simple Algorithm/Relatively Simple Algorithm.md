@@ -16,6 +16,10 @@ RSA is explained well enough in the Wikipedia article.
 
 I used this java code (*ethically* stolen from [here](https://crypto.stackexchange.com/questions/19915/rsa-decryption-given-n-e-and-phin)):
 
+<details>
+
+<summary>Code</summary>
+
 ```java
 import java.math.BigInteger;
 import java.util.ArrayList;
@@ -80,10 +84,12 @@ public class RSA {
 }
 ```
 
+</details>
+
 In RSA:
 
 $$
-phi = (p - 1)(q - 1)
+\phi\ = (p - 1)(q - 1)
 $$
 
 so I used a [big number calculator](https://www.calculator.net/big-number-calculator.html?cx=11556895667671057477200219387242513875610589005594481832449286005570409920461121505578566298354611080750154513073654150580136639937876904687126793459819368&cy=9789731420840260962289569924638041579833494812169162102854947552459243338614590024836083625245719375467053459789947717068410632082598060778090631475194566&cp=20&co=multiple) to compute the value of phi. I then ran that code above and it gave the output: `}gnitupmoc_mutnauq_litnu_tsael_ta_llew_doog_llits_tub_dlo{ftca`

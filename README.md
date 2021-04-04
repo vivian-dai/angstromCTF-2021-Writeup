@@ -16,8 +16,17 @@ Here's a CTF I solo-ed and wanted to write a writeup on since it's a few days lo
 
 <details>
 
-<summary>Crypto</summary>
+<summary>CRYPTO</summary>
 
 * [Relatively Simple Algorithm](./CRYPTO/Relatively%20Simple%20Algorithm/Relatively%20Simple%20Algorithm.md)
+* [sosig](./CRYPTO/sosig/sosig.md)
+
+</details>
+
+<details>
+
+<summary>REV</summary>
+
+* [FREE FLAGS!!1!!](REV/FREE%20FLAGS!!1!!/FREE%20FLAGS!!1!!.md)
 
 </details>
