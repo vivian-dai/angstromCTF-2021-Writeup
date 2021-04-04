@@ -4,6 +4,12 @@
 
 Oh, fish! My [dinner](./fish.png) has turned transparent again. What will I eat now that I can't eat that yummy, yummy, fish head, mmmmmm head of fish mm so good...
 
+Author: kmh
+
+### Hint
+
+Is the image really empty?
+
 ## Approach
 
 Using [stegsolve](https://github.com/eugenekolo/sec-tools/tree/master/stego/stegsolve/stegsolve), I loaded the [fish](./fish.png) image and `Color Inversion (Xor)` revealed this image:

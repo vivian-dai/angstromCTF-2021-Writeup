@@ -4,9 +4,11 @@
 
 [RSA](./rsa.txt) strikes strikes again again! [Source](./rsa.py)
 
-## Hint
+### Hint
 
 [https://en.wikipedia.org/wiki/RSA_(cryptosystem)](https://en.wikipedia.org/wiki/RSA_(cryptosystem))
+
+Author: lamchcl
 
 ## Approach
 

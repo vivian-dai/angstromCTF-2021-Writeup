@@ -6,6 +6,8 @@ Wow! Aplet sent me a message... he said he encrypted it with a key, but lost it.
 
 [Source](./chall.py) [Output](./out.txt)
 
+Author: EvilMuffinHa
+
 ## Approach
 
 Using [Boxentriq](https://www.boxentriq.com/code-breaking/cipher-identifier), it identified the most likely ciphers it could be. It was a monoalpahbetical substitution cipher which is to say each letter of the alphabet is replaced with another letter in the cipher. I used [dcode](https://www.dcode.fr/monoalphabetic-substitution) to decode the cipher manually....

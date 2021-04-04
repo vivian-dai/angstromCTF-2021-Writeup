@@ -6,7 +6,9 @@ The archaeological team at ångstromCTF has uncovered an archive from over 100 y
 
 Access the file at /problems/2021/archaic/archive.tar.gz on the shell server.
 
-## Hint
+Author: kmh
+
+### Hint
 
 What is a .tar.gz file?
 
