@@ -36,6 +36,6 @@ Here's a random CTF I participated in and wanted to write a writeup on since it'
 
 <summary>BINARY</summary>
 
-* [tranquil](BINARY/tranquil/tranquil.md)
+* [tranquil](./BINARY/tranquil/tranquil.md)
 
 </details>
