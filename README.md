@@ -20,6 +20,7 @@ Here's a random CTF I participated in and wanted to write a writeup on since it'
 
 * [Relatively Simple Algorithm](./CRYPTO/Relatively%20Simple%20Algorithm/Relatively%20Simple%20Algorithm.md)
 * [sosig](./CRYPTO/sosig/sosig.md)
+* [Exclusive Cipher](./CRYPTO/Exclusive%20Cipher/Exclusive%20Cipher.md)
 
 </details>
 
@@ -28,5 +29,13 @@ Here's a random CTF I participated in and wanted to write a writeup on since it'
 <summary>REV</summary>
 
 * [FREE FLAGS!!1!!](REV/FREE%20FLAGS!!1!!/FREE%20FLAGS!!1!!.md)
+
+</details>
+
+<details>
+
+<summary>BINARY</summary>
+
+* [tranquil](BINARY/tranquil/tranquil.md)
 
 </details>
